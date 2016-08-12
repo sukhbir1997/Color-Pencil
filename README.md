@@ -2,9 +2,7 @@
 
 Draw Brick Designs on your Free Time
 
-You can make some interesting designs in your free time, this can also be used to make a webpage a bit more consumer interative.
-
-The application is written on Jquery.
+You can make some interesting designs in your free time, this can also be used to make a webpage a bit more consumer interative. The application is written on Jquery.
 
 Screenshots are included in the data/img folder.
 
