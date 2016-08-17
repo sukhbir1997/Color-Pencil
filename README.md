@@ -12,6 +12,6 @@ I am always open to suggestions, you can tell me by dropping a mail, at the prov
 
 Thank-You
 
-Author: Sukhbir Singh
+#Author: Sukhbir Singh
 
 email:sukhbirbedi03@gmail.com
